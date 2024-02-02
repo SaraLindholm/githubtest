@@ -1,5 +1,8 @@
 städa
 diska
 nypunkt
+punk
+rock
+annat
 
 
